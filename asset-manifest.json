@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e98a69c9.css",
-    "main.js": "/static/js/main.ad4b8f4f.js",
-    "index.html": "/index.html",
-    "main.e98a69c9.css.map": "/static/css/main.e98a69c9.css.map",
-    "main.ad4b8f4f.js.map": "/static/js/main.ad4b8f4f.js.map"
+    "main.css": "/todo-solo/static/css/main.e98a69c9.css",
+    "main.js": "/todo-solo/static/js/main.ad4b8f4f.js",
+    "index.html": "/todo-solo/index.html",
+    "main.e98a69c9.css.map": "/todo-solo/static/css/main.e98a69c9.css.map",
+    "main.ad4b8f4f.js.map": "/todo-solo/static/js/main.ad4b8f4f.js.map"
   },
   "entrypoints": [
     "static/css/main.e98a69c9.css",
